@@ -1,7 +1,8 @@
-Projeto Express API
-Este projeto é uma API simples criada usando o framework Express.js para gerenciar uma lista de usuários. A API permite criar, listar, atualizar e deletar usuários. Cada usuário possui um identificador único (UUID), nome e idade.
 
+Este projeto é uma API simples criada usando o framework Express.js para gerenciar uma lista de usuários. A API permite criar, listar, atualizar e deletar usuários. Cada usuário possui um identificador único (UUID), nome e idade.
+<br>
 Instalação
+<br>
 Clone o repositório:
 bash
 Copiar código
